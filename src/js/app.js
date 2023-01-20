@@ -1,6 +1,8 @@
 import "../scss/app.scss";
 //import * as R from "https://deno.land/x/ramda@v0.27.2/mod.ts";
-const R = require('ramda')
+import * as R from 'ramda';
+//
+//const R = require('ramda')
 window.addEventListener("DOMContentLoaded", () => {
   // This block will be executed once the page is loaded and ready
 
